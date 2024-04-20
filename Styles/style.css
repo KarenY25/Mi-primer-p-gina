@@ -1,0 +1,126 @@
+
+#nombre{
+  border-style: dashed 12px;
+    font-family: "Righteous", sans-serif;
+    text-align: center;
+    background-color: #86469C;
+    color: #FFCDEA;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+  
+}
+
+#descripción {
+  font-family: "Exo 2", sans-serif;
+  background-color: #FFCDEA;
+  color: #86469C;
+  margin: 1vw;
+  text-align: center;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.list-group-flush{
+  color: #86469C;
+}
+
+#titulo-uno{
+  border-style: dashed 12px;
+  font-family: "Righteous", sans-serif;
+  text-align: center;
+  background-color: #86469C;
+  color: #FFCDEA;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  }
+
+  #titulo-unouno{
+    border-style: dashed 12px;
+    font-family: "Righteous", sans-serif;
+    text-align: center;
+    background-color: #86469C;
+    color: #FFCDEA;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+  }
+
+  #titulo-dos{
+    border-style: dashed 12px;
+    font-family: "Righteous", sans-serif;
+    text-align: center;
+    background-color: #86469C;
+    color: #FFCDEA;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+  }
+
+  #titulo-tres{
+    border-style: dashed 12px;
+    font-family: "Righteous", sans-serif;
+    text-align: center;
+    background-color: #86469C;
+    color: #FFCDEA;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+  }
+
+  #titulo-cuatro{
+    border-style: dashed 12px;
+    font-family: "Righteous", sans-serif;
+    text-align: center;
+    background-color: #86469C;
+    color: #FFCDEA;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+  }
+
+#col-izq{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+#col-der{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+.list-group{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card-img-top{
+  width: 100px;
+  height: 300px;
+  align-items: center;
+}
+
+p{
+  font-family: "Exo 2", sans-serif;
+  background-color: #FFCDEA;
+  color: #86469C;
+  margin: 1vw;
+  text-align: center;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
